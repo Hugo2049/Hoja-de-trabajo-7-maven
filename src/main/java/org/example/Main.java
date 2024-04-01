@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         // Construir el árbol binario de búsqueda a partir del archivo de asociaciones
-        BinaryTree dictionaryTree = buildDictionaryTree("diccionario.txt");
+        BinaryTree dictionaryTree = buildDictionaryTree("src\\main\\java\\org\\example\\diccionario.txt");
 
         // Solicitar al usuario que ingrese la oración en inglés
         Scanner scanner = new Scanner(System.in);

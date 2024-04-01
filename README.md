@@ -20,4 +20,4 @@ por el momento no encontré bugs, y las pruebas unitarias corrieron bien
 Hay que ingresar el .txt si es que desea cambiarlo y si no pues ahí está el que le dejé, 
 lo que hace es correr el main y ingresar una oración en ingles, el codigo rrecorre el arbol y luego busca las palabras que están y las traduce con la relación y la busqueda 
 
-Creador: Hugo Ernesto Barillas Villagrán
+Autor: Hugo Ernesto Barillas Villagrán
